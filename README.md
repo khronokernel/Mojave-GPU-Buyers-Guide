@@ -3,7 +3,7 @@
 **Disclaimer: I mention Turing, Pascal and Maxwell to help educate users on what versions of MacOs they're supported on but if you accidentally fell on this page thinking your RTX 2080ti is supported, please read carefully**
 
 
-So on this sub there’s been quite a few questions regarding which GPU to buy for Mojave ever since the Web Drivers “disappeared”. Though I want to go in depth why the Web Drivers were removed, I’ll give you guys a TL;DR on the situation and a little guide of which GPUs to buy, which to avoid and the pros/cons of each model.
+So around the hackintosh community there’s been quite a few questions regarding which GPU to buy for Mojave ever since the Web Drivers “disappeared”. Though I want to go in depth why the Web Drivers were removed, I’ll give you guys a TL;DR on the situation and a little guide of which GPUs to buy, which to avoid and the pros/cons of each model.
 
 # TL;DR on WebDrivers
 
