@@ -1,4 +1,4 @@
-# Mojave-GPU-Buyers-Guide
+# Mojave GPU Buyers Guide
 
 **Disclaimer: I mention Turing, Pascal and Maxwell to help educate users on what versions of MacOs they're supported on but if you accidentally fell on this page thinking your RTX 2080ti is supported, please read carefully**
 
