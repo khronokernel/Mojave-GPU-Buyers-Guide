@@ -121,6 +121,19 @@ Needed kexts
 
 &#x200B;
 
+# Unsupported AMD GPUs
+
+**Navi GPUa(RX 5000) Highest Supported OS: None**
+
+So with the announcement and soon to be release of Navi, please keep in mind that MacOS Mojave currently does not have any driver support for these cards. You'll need to wait for either the final release of MacOS Mojave 10.14.6 to see if driver support is there or wait for MacOS 10.15
+
+&#x200B;
+
+Unsupported Cards:
+
+* RX 5700
+* &#x200B;
+
 # Native nVidia GPUs
 
 &#x200B;
